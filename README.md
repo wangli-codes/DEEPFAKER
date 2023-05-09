@@ -1,2 +1,2 @@
 # DEEPFAKER
-The code will be released soon!
+The source code will be released soon!
